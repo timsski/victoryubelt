@@ -1,3 +1,11 @@
-name: Timsski
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+# Setup
+name:           Timsski
+markdown:       kramdown
+
+# Permalink
+permalink:      /blog/:year/:month/:day/:title
+
+# Assets
+sass:
+  sass_dir:     css
+  style:        :compressed

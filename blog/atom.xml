@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://http://timsski.github.io/blog</id>
 	<author>
-		<name>Timsski</name>
+		<name>Tim</name>
 	</author>
 
 	{% for post in site.posts %}

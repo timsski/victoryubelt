@@ -9,3 +9,5 @@ permalink:      /blog/:year/:month/:day/:title
 sass:
   sass_dir:     css
   style:        :compressed
+
+theme: jekyll-theme-minimal
